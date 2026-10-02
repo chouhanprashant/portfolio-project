@@ -1,0 +1,4 @@
+# Ready-to-enable Cloudflare Pages configuration. Set the project in the Pages dashboard.
+name = "siddeshmandhane-portfolio"
+compatibility_date = "2026-10-03"
+pages_build_output_dir = "."

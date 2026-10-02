@@ -1,0 +1,1 @@
+{"private":true,"scripts":{"check:seo":"node scripts/seo-build.mjs"}}

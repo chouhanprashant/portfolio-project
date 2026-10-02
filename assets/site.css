@@ -1,3 +1,1 @@
 @import url("/assets/site.core.css");
-/* Pages without a compact-menu trigger keep their navigation visible and wrapped. */
-@media (max-width:760px){.nav:not([id="nav"]){display:flex;position:static;padding:0;background:transparent;border:0;flex-flow:row wrap;justify-content:flex-end;gap:.45rem}.nav:not([id="nav"]) a{font-size:.8rem}}

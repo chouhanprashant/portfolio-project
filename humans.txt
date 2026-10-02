@@ -1,0 +1,4 @@
+/* TEAM */
+Siddhesh Mandhane — portfolio owner
+/* SITE */
+Static HTML, CSS and vanilla JavaScript. Nashik, Maharashtra, India.
