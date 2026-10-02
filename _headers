@@ -1,0 +1,26 @@
+# Cloudflare Pages headers. Kept in the deploy output (the repository root).
+/*
+  Cache-Control: public, max-age=300, must-revalidate
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), geolocation=(), microphone=(), payment=(), usb=()
+  Content-Security-Policy: default-src 'self'; base-uri 'self'; form-action 'self' mailto:; frame-ancestors 'none'; img-src 'self' data:; object-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; upgrade-insecure-requests
+
+# Styles and scripts are versioned in their HTML URLs. Bump the query version when changing either file.
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Source and authoring files are harmless if requested but should never be indexed.
+/scripts/*
+  Cache-Control: no-store
+  X-Robots-Tag: noindex, nofollow
+/PLACEHOLDERS.md
+  Cache-Control: no-store
+  X-Robots-Tag: noindex, nofollow
+/package.json
+  Cache-Control: no-store
+  X-Robots-Tag: noindex, nofollow
+/wrangler.toml
+  Cache-Control: no-store
+  X-Robots-Tag: noindex, nofollow

@@ -1,2 +1,6 @@
-# Ready to enable on Cloudflare Pages or Netlify.
-https://siddheshmandhane.in/* https://siddeshmandhane.in/:splat 301!
+# Deliberately empty by default.
+#
+# The siddheshmandhane.in -> siddeshmandhane.in host redirect is documented in
+# DEPLOY.md. Configure it only after siddeshmandhane.in is attached as the
+# canonical Pages domain; a host redirect shipped here could loop during DNS
+# or custom-domain cutover.
