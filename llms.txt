@@ -1,0 +1,12 @@
+# Siddhesh Mandhane
+> Windows Server & Cloud Infrastructure Engineer based in Nashik, Maharashtra, India, with 6+ years in IT operations.
+Canonical site: https://siddeshmandhane.in/
+## Pages
+- /about/ — profile and education
+- /experience/ — experience areas
+- /skills/ — infrastructure skills
+- /certifications/ — listed certifications
+- /case-studies/ — templates with result placeholders
+- /blog/ — technical article outlines
+- /contact/ — email and LinkedIn
+- /resume/ — HTML resume

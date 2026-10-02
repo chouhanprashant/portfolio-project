@@ -1,0 +1,7 @@
+# Siddhesh Mandhane — full site summary
+Siddhesh Mandhane is a Windows Server & Cloud Infrastructure Engineer based in Nashik, Maharashtra, India, with 6+ years of experience in IT operations.
+Experience areas: Windows Server; Active Directory; Azure; VMware; Microsoft Intune; Networking / Fortinet; Backup & Disaster Recovery; Security; Monitoring; PowerShell / automation.
+Certifications: Microsoft Certified: Azure Administrator Associate (AZ-104), June 2026; CSCU, EC-Council; Google IT Support Professional Certificate, Coursera; VMware vSphere, Udemy; Fortinet Network Security, Udemy.
+Education: PGDM IT, MIT Pune, 2026. Diploma IT, K.K. Wagh Polytechnic, Nashik, 2019.
+Contact: siddeshmandhane02@gmail.com. LinkedIn: https://linkedin.com/in/siddeshmandhane-869a87202
+Website: https://siddeshmandhane.in/
